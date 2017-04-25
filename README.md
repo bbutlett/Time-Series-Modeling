@@ -1,7 +1,7 @@
 # Time-Series-Modeling
 Box Jenkins Methodology
 
-#Abstract:
+Abstract:
 
 The "Great Lakes" data set is an example of a non-seasonal, non-stationary time series that
 experiences a slight upward linear trend. The series is differenced and transformed using
